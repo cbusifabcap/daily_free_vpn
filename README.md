@@ -2,13 +2,13 @@
 
 🚀 **自动更新的免费 VPN 节点合集**
 
-🕒 最近更新时间：**2026-01-29 13:11:28**
+🕒 最近更新时间：**2026-01-29 13:22:13**
 
 ---
 
 ## 📢 Telegram 频道推荐
 
-📡 我会第一时间在 Telegram 发布最新可用节点  
+📡 第一时间发布最新可用节点  
 👉 **[Daily Free VPN Channel](https://t.me/daily_free_vpn)**  
 📌 欢迎关注，避免错过更新！
 
@@ -39,7 +39,7 @@
 <summary>📄 merge-verify-1.txt（点击展开）</summary>
 
 🔗 原始文件地址（Raw）  
-https://raw.githubusercontent.com/{你的用户名}/{仓库名}/main/merge-verify-1.txt
+https://raw.githubusercontent.com/cbusifabcap/daily_free_vpn/main/merge-verify-1.txt
 
 </details>
 
@@ -47,7 +47,7 @@ https://raw.githubusercontent.com/{你的用户名}/{仓库名}/main/merge-verif
 <summary>📄 merge-china-verify-1.txt（点击展开）</summary>
 
 🔗 原始文件地址（Raw）  
-https://raw.githubusercontent.com/{你的用户名}/{仓库名}/main/merge-china-verify-1.txt
+https://raw.githubusercontent.com/cbusifabcap/daily_free_vpn/main/merge-china-verify-1.txt
 
 </details>
 
