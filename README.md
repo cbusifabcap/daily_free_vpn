@@ -2,7 +2,7 @@
 
 🚀 **自动更新的免费 VPN 节点合集**
 
-🕒 最近更新时间：**2026-02-09 02:25:09**
+🕒 最近更新时间：**2026-02-09 03:15:53**
 
 ---
 
@@ -36,18 +36,10 @@
 
 
 <details>
-<summary>📄 merge-verify-1.txt（点击展开）</summary>
+<summary>📄 merge-verify.txt（点击展开）</summary>
 
 🔗 原始文件地址（Raw）  
-https://raw.githubusercontent.com/cbusifabcap/daily_free_vpn/main/merge-verify-1.txt
-
-</details>
-
-<details>
-<summary>📄 merge-china-verify-1.txt（点击展开）</summary>
-
-🔗 原始文件地址（Raw）  
-https://raw.githubusercontent.com/cbusifabcap/daily_free_vpn/main/merge-china-verify-1.txt
+https://raw.githubusercontent.com/cbusifabcap/daily_free_vpn/main/merge-verify.txt
 
 </details>
 
