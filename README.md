@@ -69,10 +69,11 @@ https://raw.githubusercontent.com/cbusifabcap/daily_free_vpn/main/merge-verify.t
 请遵守你所在国家或地区的法律法规  
 **任何滥用行为与项目作者无关**
 ---
+---
 
 ## 🔍 Keywords
 
-> This repository is updated daily and focuses on collecting **free, stable and high-speed VPN nodes**.
+> This repository focuses on collecting **free, stable and high-speed VPN nodes**.
 
 <details>
 <summary>📌 Click to expand keyword list</summary>
