@@ -2,7 +2,7 @@
 
 🚀 **自动更新的免费 VPN 节点合集**
 
-🕒 最近更新时间：**2026-02-18 01:23:26**
+🕒 最近更新时间：**2026-02-18 02:23:28**
 
 ---
 
@@ -34,21 +34,21 @@
 
 ### ⚡ 实时测速 TOP 15 预览
 ```text
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#US | 17.62MB/s | 37.19.198.243 | tg@daily_free_vpn
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#US | 17.27MB/s | 37.19.198.236 | tg@daily_free_vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@79.127.200.169:990#CA | 12.12MB/s | 79.127.200.169 | tg@daily_free_vpn
-vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?path=/39427/Nextlife&security=none&encryption=none&host=telewebion.com&type=ws#CA | 10.49MB/s | 198.50.119.86 | tg@daily_free_vpn
-vmess://eyJhZGQiOiAiMTcyLjY3LjE3OC4yMTIiLCAiYWlkIjogIjAiLCAiYWxwbiI6IG51bGwsICJmcCI6IG51bGwsICJob3N0IjogIjY3Ljc3NzcxMTIueHl6IiwgImlkIjogIjIyMTU2NTdlLTJhZjQtNDA1Zi1iNzcwLTRlNjFiMjk4ZDViOCIsICJuYW1lIjogIvCfh7rwn4e4IFVTIDEyMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvUEdzcWIyU0hKZmJDTG8iLCAicG9ydCI6IDQ0MywgInBzIjogIlVTIHwgOC42MU1CL3MgfCAxMDcuMTcyLjEzMi4yNDggfCB0Z0BkYWlseV9mcmVlX3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiNjcuNzc3NzExMi54eXoiLCAidGxzIjogInRscyIsICJ0eXBlIjogbnVsbCwgInYiOiBudWxsLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
-vless://8e633674-dd04-45c0-a900-04066988bd2e@38.180.204.189:443?security=reality&encryption=none&pbk=_WB4K6w5EoQuBAan6fsS9NPJf5wa6ggmxIa8No93ghM&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=6553e6d9#US | 8.26MB/s | 38.180.204.189 | tg@daily_free_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh29v3.globalfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#CY | 8.25MB/s | 45.82.251.233 | tg@daily_free_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh29v4.globalfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#CY | 7.52MB/s | 45.82.251.249 | tg@daily_free_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?mode=gun&security=&encryption=none&type=grpc#CY | 7.27MB/s | 45.82.251.116 | tg@daily_free_vpn
-vmess://eyJhZGQiOiAidnZiZy4xOTEyNjIueHl6IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInZ2YmcuMTkxMjYyLnh5eiIsICJpZCI6ICI0YTdiYWNhMS04MDQ4LTRhOTEtODMxNi01OTViMzY2NTdhNTQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL1RhQnZrclVic3l2c3ZpbnNHR2ciLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiVVMgfCA2LjkyTUIvcyB8IDE4NS4xMjIuMTY0LjQ1IHwgdGdAZGFpbHlfZnJlZV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogInZ2YmcuMTkxMjYyLnh5eiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
-ss://YWVzLTI1Ni1nY206a0VWS2oxeHZnemVFbjhBVg@209.126.5.209:443#US | 6.56MB/s | 209.126.5.209 | tg@daily_free_vpn
-vless://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@kli.988988.shop:443?encryption=none&security=tls&sni=kli.988988.shop&type=ws&host=kli.988988.shop&path=%2FUzlFfVDyqJL3rI4BWzwNzcYz#US | 6.38MB/s | 192.227.153.101 | tg@daily_free_vpn
-vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4yMjciLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwb3J0IjogNDQzLCAicHMiOiAiQ0EgfCA2LjM1TUIvcyB8IDIzLjE2Mi4yMDAuMjI3IHwgdGdAZGFpbHlfZnJlZV92cG4iLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#US | 5.75MB/s | 156.146.38.169 | tg@daily_free_vpn
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#US | 5.75MB/s | 156.146.38.170 | tg@daily_free_vpn
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#US | 17.97MB/s | 37.19.198.236 | tg@daily_free_vpn
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#US | 17.20MB/s | 37.19.198.243 | tg@daily_free_vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@23.95.76.59:990#GB | 9.94MB/s | 62.100.205.195 | tg@daily_free_vpn
+vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?path=/39427/Nextlife&security=none&encryption=none&host=telewebion.com&type=ws#CA | 9.92MB/s | 198.50.119.86 | tg@daily_free_vpn
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?mode=gun&security=none&encryption=none&type=grpc#CY | 8.79MB/s | 45.82.251.116 | tg@daily_free_vpn
+vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4yMjciLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwb3J0IjogNDQzLCAicHMiOiAiQ0EgfCA4LjU3TUIvcyB8IDIzLjE2Mi4yMDAuMjI3IHwgdGdAZGFpbHlfZnJlZV92cG4iLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh29v4.globalfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#CY | 8.52MB/s | 45.82.251.249 | tg@daily_free_vpn
+vless://8e633674-dd04-45c0-a900-04066988bd2e@38.180.204.189:443?security=reality&encryption=none&pbk=_WB4K6w5EoQuBAan6fsS9NPJf5wa6ggmxIa8No93ghM&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=6553e6d9#US | 8.31MB/s | 38.180.204.189 | tg@daily_free_vpn
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh29v3.globalfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#CY | 7.65MB/s | 45.82.251.233 | tg@daily_free_vpn
+vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?encryption=none&security=tls&sni=pqh30v1.carwashipdir.shop&fp=chrome&insecure=0&allowInsecure=0&type=grpc#MD | 7.26MB/s | 185.236.232.115 | tg@daily_free_vpn
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=pqh29v7.carwashipdir.shop&alpn=h2&insecure=1&type=grpc&mode=gun#CY | 6.81MB/s | 45.82.251.250 | tg@daily_free_vpn
+vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v5.carwashipdir.shop#MD | 6.74MB/s | 185.236.232.119 | tg@daily_free_vpn
+vmess://eyJhZGQiOiAidnZiZy4xOTEyNjIueHl6IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInZ2YmcuMTkxMjYyLnh5eiIsICJpZCI6ICI0YTdiYWNhMS04MDQ4LTRhOTEtODMxNi01OTViMzY2NTdhNTQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL1RhQnZrclVic3l2c3ZpbnNHR2ciLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiVVMgfCA2LjQ1TUIvcyB8IDE4NS4xMjIuMTY0LjQ1IHwgdGdAZGFpbHlfZnJlZV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogInZ2YmcuMTkxMjYyLnh5eiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+vmess://eyJhZGQiOiAibW1raTkua2sxLmNjd3UuY2MiLCAiYWlkIjogIjAiLCAiYWxwbiI6IG51bGwsICJmcCI6IG51bGwsICJob3N0IjogIm1ta2k5LmtrMS5jY3d1LmNjIiwgImlkIjogIjlkMjRiMDdjLTcxZjQtNGFhNS05NWFjLTMzMDdjNjk5NTYxOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvRmx5ZFU3OVJudTBsTmh1MVlaYzd6WiIsICJwb3J0IjogNDQzLCAicHMiOiAiVVMgfCA2LjIwTUIvcyB8IDE5Mi4zLjEzMC45NiB8IHRnQGRhaWx5X2ZyZWVfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJtbWtpOS5razEuY2N3dS5jYyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiBudWxsLCAidiI6IG51bGwsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
+vmess://eyJhZGQiOiAiMTcyLjY3LjE3OC4yMTIiLCAiYWlkIjogIjAiLCAiYWxwbiI6IG51bGwsICJmcCI6IG51bGwsICJob3N0IjogIjY3Ljc3NzcxMTIueHl6IiwgImlkIjogIjIyMTU2NTdlLTJhZjQtNDA1Zi1iNzcwLTRlNjFiMjk4ZDViOCIsICJuYW1lIjogIvCfh7rwn4e4IFVTIDEyMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvUEdzcWIyU0hKZmJDTG8iLCAicG9ydCI6IDQ0MywgInBzIjogIlVTIHwgNi4xOE1CL3MgfCAxMDcuMTcyLjEzMi4yNDggfCB0Z0BkYWlseV9mcmVlX3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiNjcuNzc3NzExMi54eXoiLCAidGxzIjogInRscyIsICJ0eXBlIjogbnVsbCwgInYiOiBudWxsLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
 ```
 ⚠️ 更多验证高速节点：
 
