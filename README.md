@@ -2,7 +2,7 @@
 
 🚀 **自动更新的免费 VPN 节点合集**
 
-🕒 最近更新时间：**2026-02-21 20:23:46**
+🕒 最近更新时间：**2026-02-21 21:24:05**
 
 ---
 
@@ -34,21 +34,21 @@
 
 ### ⚡ 实时测速 TOP 15 预览
 ```text
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#US | 17.04MB/s | 37.19.198.243 | tg@daily_free_vpn
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#US | 16.89MB/s | 37.19.198.236 | tg@daily_free_vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@79.127.200.169:990#CA | 12.65MB/s | 79.127.200.169 | tg@daily_free_vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNmM0NjAwZDRkNTEzODU3@51.161.33.111:11202#CA | 10.46MB/s | 51.161.33.111 | tg@daily_free_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.115:8880?encryption=none&security=none&type=grpc#CY | 10.29MB/s | 45.82.251.115 | tg@daily_free_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?encryption=none&security=none&type=grpc#CY | 9.94MB/s | 45.82.251.208 | tg@daily_free_vpn
-ss://YWVzLTI1Ni1nY206aGJoTzB4b21zSnpoTzI0Rg@64.176.215.70:80#US | 8.91MB/s | 64.176.215.70 | tg@daily_free_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh18v7.viripdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#CY | 8.71MB/s | 45.82.251.195 | tg@daily_free_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh29v4.globalfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#CY | 8.44MB/s | 45.82.251.249 | tg@daily_free_vpn
-vless://8e633674-dd04-45c0-a900-04066988bd2e@38.180.204.189:443?security=reality&encryption=none&pbk=_WB4K6w5EoQuBAan6fsS9NPJf5wa6ggmxIa8No93ghM&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=6553e6d9#US | 8.39MB/s | 38.180.204.189 | tg@daily_free_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh29v3.globalfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#CY | 7.82MB/s | 45.82.251.233 | tg@daily_free_vpn
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVVMgfCA3Ljc0TUIvcyB8IDE5Mi4yMjcuMTUzLjEwMSB8IHRnQGRhaWx5X2ZyZWVfdnBuIiwgImFkZCI6ICJtbW1qampray5lYTEuaW5kZXZzLmluIiwgInBvcnQiOiAiODAiLCAiaWQiOiAiNGVkNGFjNDEtNGI1Ni00MmM0LWIzMWMtNGQ3YmMzNmY3NGNlIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJtbW1qampray5lYTEuaW5kZXZzLmluIiwgInBhdGgiOiAiL0UzTUVjdG9LeVprSTRCV3p3TnpjWXoiLCAidGxzIjogIiIsICJzbmkiOiAibW1tampqa2suZWExLmluZGV2cy5pbiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaW5zZWN1cmUiOiAiMCJ9
-vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?encryption=none&security=tls&sni=pqh30v1.carwashipdir.shop&fp=chrome&insecure=0&allowInsecure=0&type=grpc#MD | 7.48MB/s | 185.236.232.115 | tg@daily_free_vpn
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVVMgfCA3LjMwTUIvcyB8IDEwNy4xNzIuMTMyLjI0NyB8IHRnQGRhaWx5X2ZyZWVfdnBuIiwgImFkZCI6ICJtbWtpaS4xYzAuY2N3dS5jYyIsICJwb3J0IjogIjgwIiwgImlkIjogIjM0Nzc4Nzk0LTcyZTgtNDg2Mi1iMWU3LTZlNmMzYmE4OTRiZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAibW1raWkuMWMwLmNjd3UuY2MiLCAicGF0aCI6ICIvcWxXaVdPZFBrQ1ZxQlhZV216UDVEMXZzTyIsICJ0bHMiOiAiIiwgInNuaSI6ICJtbWtpaS4xYzAuY2N3dS5jYyIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaW5zZWN1cmUiOiAiMCJ9
-vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4yMjciLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwb3J0IjogNDQzLCAicHMiOiAiQ0EgfCA3LjAyTUIvcyB8IDIzLjE2Mi4yMDAuMjI3IHwgdGdAZGFpbHlfZnJlZV92cG4iLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#US | 17.21MB/s | 37.19.198.236 | tg@daily_free_vpn
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#US | 15.63MB/s | 37.19.198.243 | tg@daily_free_vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNmM0NjAwZDRkNTEzODU3@51.161.33.111:11202#CA | 13.61MB/s | 51.161.33.111 | tg@daily_free_vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@79.127.200.169:990#CA | 13.29MB/s | 185.24.9.89 | tg@daily_free_vpn
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.115:8880?encryption=none&security=none&type=grpc#CY | 9.56MB/s | 45.82.251.115 | tg@daily_free_vpn
+vless://8e633674-dd04-45c0-a900-04066988bd2e@38.180.204.189:443?security=reality&encryption=none&pbk=_WB4K6w5EoQuBAan6fsS9NPJf5wa6ggmxIa8No93ghM&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=6553e6d9#US | 8.63MB/s | 38.180.204.189 | tg@daily_free_vpn
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh29v4.globalfymain.com:8880?encryption=none&security=none&sni=pqh29v4.globalfymain.com&type=grpc#CY | 8.48MB/s | 45.82.251.249 | tg@daily_free_vpn
+vless://603f6524-7a34-473c-94fe-a967b6b25095@172.67.141.105:443?security=tls&encryption=none&sni=uio.918918.shop&type=ws&host=uio.918918.shop&path=/vVI1iHEtIglbCpWc5gNlUuOCnhD#US | 8.28MB/s | 107.175.75.62 | tg@daily_free_vpn
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh18v7.viripdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#CY | 7.57MB/s | 45.82.251.195 | tg@daily_free_vpn
+vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4yMjciLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwb3J0IjogNDQzLCAicHMiOiAiQ0EgfCA3LjQ4TUIvcyB8IDIzLjE2Mi4yMDAuMjI3IHwgdGdAZGFpbHlfZnJlZV92cG4iLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh29v3.globalfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#CY | 7.45MB/s | 45.82.251.233 | tg@daily_free_vpn
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?mode=gun&security=&encryption=none&type=grpc#CY | 7.43MB/s | 45.82.251.116 | tg@daily_free_vpn
+vmess://eyJhZGQiOiAiMTU3LjE3My4yMDYuNDciLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjRmNmQwY2U2LTA0MDYtNDQ3Yy1mMzA3LTIxYTZhYTdmZTZiMiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNTc0NDkiLCAicHMiOiAiVVMgfCA3LjE3TUIvcyB8IDE1Ny4xNzMuMjA2LjQ3IHwgdGdAZGFpbHlfZnJlZV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZTFmNmZlYTc0YjczOTFh@51.161.80.138:12743#CA | 6.96MB/s | 51.161.80.138 | tg@daily_free_vpn
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVVMgfCA2LjgwTUIvcyB8IDE5Mi4yMjcuMTUzLjEwMSB8IHRnQGRhaWx5X2ZyZWVfdnBuIiwgImFkZCI6ICJtbW1qampray5lYTEuaW5kZXZzLmluIiwgInBvcnQiOiAiODAiLCAiaWQiOiAiNGVkNGFjNDEtNGI1Ni00MmM0LWIzMWMtNGQ3YmMzNmY3NGNlIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJtbW1qampray5lYTEuaW5kZXZzLmluIiwgInBhdGgiOiAiL0UzTUVjdG9LeVprSTRCV3p3TnpjWXoiLCAidGxzIjogIiIsICJzbmkiOiAibW1tampqa2suZWExLmluZGV2cy5pbiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaW5zZWN1cmUiOiAiMCJ9
 ```
 ⚠️ 更多验证高速节点：
 
