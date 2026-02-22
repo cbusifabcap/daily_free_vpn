@@ -2,7 +2,7 @@
 
 🚀 **自动更新的免费 VPN 节点合集**
 
-🕒 最近更新时间：**2026-02-22 22:24:12**
+🕒 最近更新时间：**2026-02-22 23:24:13**
 
 ---
 
@@ -34,21 +34,21 @@
 
 ### ⚡ 实时测速 TOP 15 预览
 ```text
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#US | 17.83MB/s | 37.19.198.236 | tg@daily_free_vpn
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#US | 17.29MB/s | 37.19.198.243 | tg@daily_free_vpn
-vless://2215657e-2af4-405f-b770-4e61b298d5b8@172.67.212.59:443?encryption=none&security=tls&sni=y.890601.pp.ua&type=ws&host=y.890601.pp.ua&path=/N4XLnUcJW0HJfbCLo#US | 9.66MB/s | 107.172.132.248 | tg@daily_free_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=&encryption=none&type=grpc#CY | 9.50MB/s | 45.82.251.208 | tg@daily_free_vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@23.95.76.59:990#GB | 8.79MB/s | 62.100.205.146 | tg@daily_free_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh29v3.globalfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#CY | 8.53MB/s | 45.82.251.233 | tg@daily_free_vpn
-vless://e4824193-4f54-453b-d037-88368e85ef0e@104.17.239.248:443?security=tls&sni=pqh29v7.carwashipdir.shop&type=grpc&alpn=h2&allowInsecure=1#CY | 8.50MB/s | 45.82.251.250 | tg@daily_free_vpn
-vless://8e633674-dd04-45c0-a900-04066988bd2e@38.180.204.189:443?security=reality&encryption=none&pbk=_WB4K6w5EoQuBAan6fsS9NPJf5wa6ggmxIa8No93ghM&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=6553e6d9#US | 8.40MB/s | 38.180.204.189 | tg@daily_free_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh18v7.viripdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#CY | 7.86MB/s | 45.82.251.195 | tg@daily_free_vpn
-vmess://eyJhZGQiOiAiMTU3LjE3My4yMDYuNDciLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjRmNmQwY2U2LTA0MDYtNDQ3Yy1mMzA3LTIxYTZhYTdmZTZiMiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNTc0NDkiLCAicHMiOiAiVVMgfCA3LjcxTUIvcyB8IDE1Ny4xNzMuMjA2LjQ3IHwgdGdAZGFpbHlfZnJlZV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.154.204.7:990#GB | 7.64MB/s | 62.100.205.195 | tg@daily_free_vpn
-vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4yMjciLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwb3J0IjogNDQzLCAicHMiOiAiQ0EgfCA3LjY0TUIvcyB8IDIzLjE2Mi4yMDAuMjI3IHwgdGdAZGFpbHlfZnJlZV92cG4iLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh29v4.globalfymain.com:8880?mode=gun&security=&encryption=none&type=grpc&sni=pqh29v4.globalfymain.com#CY | 7.38MB/s | 45.82.251.249 | tg@daily_free_vpn
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v5.carwashipdir.shop#MD | 7.37MB/s | 185.236.232.119 | tg@daily_free_vpn
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVVMgfCA2Ljk1TUIvcyB8IDE5Mi4yMjcuMTUzLjEwMSB8IHRnQGRhaWx5X2ZyZWVfdnBuIiwgImFkZCI6ICJibmhqdXUuZWExLmluZGV2cy5pbiIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICI0ZWQ0YWM0MS00YjU2LTQyYzQtYjMxYy00ZDdiYzM2Zjc0Y2UiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImJuaGp1dS5lYTEuaW5kZXZzLmluIiwgInBhdGgiOiAiL0UzTUVjdG9LeVprSTRCV3p3TnpjWXoiLCAidGxzIjogInRscyIsICJzbmkiOiAiYm5oanV1LmVhMS5pbmRldnMuaW4iLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImluc2VjdXJlIjogIjAifQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#US | 17.41MB/s | 37.19.198.236 | tg@daily_free_vpn
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#US | 17.34MB/s | 37.19.198.243 | tg@daily_free_vpn
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#CY | 10.78MB/s | 45.82.251.208 | tg@daily_free_vpn
+vless://2215657e-2af4-405f-b770-4e61b298d5b8@172.67.212.59:443?encryption=none&security=tls&sni=y.890601.pp.ua&type=ws&host=y.890601.pp.ua&path=/N4XLnUcJW0HJfbCLo#US | 10.12MB/s | 107.172.132.248 | tg@daily_free_vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@23.95.76.59:990#GB | 10.05MB/s | 62.100.205.146 | tg@daily_free_vpn
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh29v4.globalfymain.com:8880?mode=gun&security=&encryption=none&type=grpc&sni=pqh29v4.globalfymain.com#CY | 8.80MB/s | 45.82.251.249 | tg@daily_free_vpn
+vless://8e633674-dd04-45c0-a900-04066988bd2e@38.180.204.189:443?security=reality&encryption=none&pbk=_WB4K6w5EoQuBAan6fsS9NPJf5wa6ggmxIa8No93ghM&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=6553e6d9#US | 8.34MB/s | 38.180.204.189 | tg@daily_free_vpn
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh29v3.globalfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#CY | 7.96MB/s | 45.82.251.233 | tg@daily_free_vpn
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh18v7.viripdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#CY | 7.63MB/s | 45.82.251.195 | tg@daily_free_vpn
+vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?encryption=none&security=tls&sni=pqh30v1.carwashipdir.shop&fp=chrome&insecure=0&allowInsecure=0&type=grpc#MD | 7.48MB/s | 185.236.232.115 | tg@daily_free_vpn
+vmess://eyJhZGQiOiAiMTU3LjE3My4yMDYuNDciLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjRmNmQwY2U2LTA0MDYtNDQ3Yy1mMzA3LTIxYTZhYTdmZTZiMiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNTc0NDkiLCAicHMiOiAiVVMgfCA3LjE5TUIvcyB8IDE1Ny4xNzMuMjA2LjQ3IHwgdGdAZGFpbHlfZnJlZV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
+ss://YWVzLTI1Ni1nY206a0VWS2oxeHZnemVFbjhBVg@209.126.5.209:443#US | 6.51MB/s | 209.126.5.209 | tg@daily_free_vpn
+vless://e4824193-4f54-453b-d037-88368e85ef0e@104.17.239.248:443?security=tls&sni=pqh29v7.carwashipdir.shop&type=grpc&alpn=h2&allowInsecure=1#CY | 6.43MB/s | 45.82.251.250 | tg@daily_free_vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.154.204.7:990#GB | 6.37MB/s | 62.100.205.195 | tg@daily_free_vpn
+vless://603f6524-7a34-473c-94fe-a967b6b25095@172.67.141.105:443?security=tls&encryption=none&sni=uio.918918.shop&type=ws&host=uio.918918.shop&path=/vVI1iHEtIglbCpWc5gNlUuOCnhD#US | 6.24MB/s | 107.175.75.62 | tg@daily_free_vpn
 ```
 ⚠️ 更多验证高速节点：
 
