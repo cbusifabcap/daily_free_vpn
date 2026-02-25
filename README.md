@@ -2,7 +2,7 @@
 
 🚀 **自动更新的免费 VPN 节点合集**
 
-🕒 最近更新时间：**2026-02-25 17:24:48**
+🕒 最近更新时间：**2026-02-25 18:23:45**
 
 ---
 
@@ -34,21 +34,21 @@
 
 ### ⚡ 实时测速 TOP 15 预览
 ```text
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#US | 17.50MB/s | 37.19.198.160 | tg@daily_free_vpn
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#US | 15.50MB/s | 37.19.198.243 | tg@daily_free_vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@79.127.200.169:990#CA | 13.60MB/s | 185.24.9.88 | tg@daily_free_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.33:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#CY | 10.67MB/s | 45.82.251.33 | tg@daily_free_vpn
-vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?path=/39427/Nextlife&security=none&encryption=none&host=telewebion.com&type=ws#CA | 10.18MB/s | 198.50.119.86 | tg@daily_free_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.115:8880?mode=gun&security=none&encryption=none&type=grpc#CY | 9.48MB/s | 45.82.251.115 | tg@daily_free_vpn
-ss://YWVzLTI1Ni1nY206bktlRTJaRldWYUU0RHlqUg@154.38.176.7:80#US | 9.23MB/s | 154.38.176.7 | tg@daily_free_vpn
-vless://e4824193-4f54-453b-d037-88368e85ef0e@104.17.239.248:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&type=grpc&serviceName=&sni=pqh29v7.carwashipdir.shop#CY | 8.74MB/s | 45.82.251.250 | tg@daily_free_vpn
-vless://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@198.62.62.248:443?security=tls&type=ws&path=%2Flove&host=tar.alabama-tigr.info&sni=tar.alabama-tigr.info&fp=chrome&encryption=none#GB | 8.62MB/s | 138.124.180.168 | tg@daily_free_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh29v3.globalfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#CY | 8.62MB/s | 45.82.251.233 | tg@daily_free_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh29v4.globalfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#CY | 8.60MB/s | 45.82.251.249 | tg@daily_free_vpn
-vless://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@104.21.32.229:443?encryption=none&security=tls&sni=vbhj.dddct.us.ci&type=ws&host=vbhj.dddct.us.ci&path=/UzlFfVDyqJL3rI4BWzwNzcYz#US | 8.45MB/s | 192.227.153.101 | tg@daily_free_vpn
-vless://8e633674-dd04-45c0-a900-04066988bd2e@38.180.204.189:443?security=reality&encryption=none&pbk=_WB4K6w5EoQuBAan6fsS9NPJf5wa6ggmxIa8No93ghM&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=6553e6d9#US | 8.44MB/s | 38.180.204.189 | tg@daily_free_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh30v3.globalfymain.com:8880?encryption=none&security=none&sni=pqh30v3.globalfymain.com&type=grpc#MD | 8.01MB/s | 185.236.232.117 | tg@daily_free_vpn
-vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?encryption=none&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2&allowInsecure=1&type=grpc#MD | 8.00MB/s | 185.236.232.119 | tg@daily_free_vpn
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#US | 17.48MB/s | 37.19.198.160 | tg@daily_free_vpn
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#US | 16.74MB/s | 37.19.198.243 | tg@daily_free_vpn
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#US | 16.70MB/s | 37.19.198.236 | tg@daily_free_vpn
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.115:8880?mode=gun&security=none&encryption=none&type=grpc#CY | 10.89MB/s | 45.82.251.115 | tg@daily_free_vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@79.127.200.169:990#CA | 10.69MB/s | 185.24.9.88 | tg@daily_free_vpn
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.33:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#CY | 10.21MB/s | 45.82.251.33 | tg@daily_free_vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@23.95.76.59:990#GB | 10.15MB/s | 62.100.205.195 | tg@daily_free_vpn
+vless://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@104.21.32.229:443?encryption=none&security=tls&sni=vbhj.dddct.us.ci&type=ws&host=vbhj.dddct.us.ci&path=/UzlFfVDyqJL3rI4BWzwNzcYz#US | 9.86MB/s | 192.227.153.101 | tg@daily_free_vpn
+vless://e4824193-4f54-453b-d037-88368e85ef0e@104.17.239.248:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&type=grpc&serviceName=&sni=pqh29v7.carwashipdir.shop#CY | 9.38MB/s | 45.82.251.250 | tg@daily_free_vpn
+vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?encryption=none&security=tls&sni=pqh30v1.carwashipdir.shop&fp=chrome&insecure=0&allowInsecure=0&type=grpc#MD | 8.77MB/s | 185.236.232.115 | tg@daily_free_vpn
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh29v3.globalfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#CY | 8.29MB/s | 45.82.251.233 | tg@daily_free_vpn
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh30v3.globalfymain.com:8880?encryption=none&security=none&sni=pqh30v3.globalfymain.com&type=grpc#MD | 8.22MB/s | 185.236.232.117 | tg@daily_free_vpn
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVVMgfCA3LjcwTUIvcyB8IDE4NS4xMTYuMjM2LjEzMyB8IHRnQGRhaWx5X2ZyZWVfdnBuIiwgImFkZCI6ICJiYmdmdmNlLjEyaS5jY3d1LmNjIiwgInBvcnQiOiAiODAiLCAiaWQiOiAiYWU3MmY5NTgtYzFmNi00ZmMyLWEzMTAtMWYwMDdhZjNkMTFmIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJiYmdmdmNlLjEyaS5jY3d1LmNjIiwgInBhdGgiOiAiL1djQ3MyeDJZd2F3RmE2Q3NmazB1RkRGIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaW5zZWN1cmUiOiAiMCJ9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh18v7.viripdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#CY | 7.66MB/s | 45.82.251.195 | tg@daily_free_vpn
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh29v4.globalfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#CY | 7.54MB/s | 45.82.251.249 | tg@daily_free_vpn
 ```
 ⚠️ 更多验证高速节点：
 
