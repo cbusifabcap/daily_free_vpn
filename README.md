@@ -1,12 +1,19 @@
-# Daily Free VPN
+---
 
-🚀 **自动更新的免费 VPN 节点合集**
+## Daily Free VPN
 
-🕒 最近更新时间：**2026-02-26 17:22:56**
+[!IMPORTANT]
+📢 更新公告 (2026-02-26)
+
+📌 更新分流：Github 不再提供全节点更新，全量节点仅在 Telegram 频道 发布。
+
+📌 配额说明：Github 仓库保留 10 个 中转节点，Telegram 频道提供 20 个 中转节点。
+
+📌 性能瓶颈：受服务器资源限制，无法提供海量节点。如有高需求，请自行购买服务器安装 3x-ui。
 
 ---
 
-## 📢 Telegram 频道推荐
+## 📢 Telegram 频道
 
 📡 第一时间发布最新可用节点  
 👉 **[Daily Free VPN Channel](https://t.me/daily_free_vpn)**  
@@ -14,44 +21,24 @@
 
 ---
 
-## 💰 VPS 超值推荐（最性价比、长期稳定）
+## 💰 免费 VPS 推荐
 
-**1 GB KVM VPS (A Must Grab Deal) - LEB Exclusive**
+**TierHive - 全功能弹性 NAT VPS**
+- **NAT 架构与内网**：每位用户分配完整 /24 子网，支持 WireGuard Mesh 跨地域互联。
+- **高可用与 SSL**：内置 HAProxy 负载均衡，通过 Let's Encrypt 自动完成 SSL 证书管理。
+- **托管数据库**：提供受管 MariaDB 实例与自动备份，实现 SQL 资源卸载。
+- **自动化部署**：支持 Recipe 系统，利用社区配方一键部署复杂应用。
+- **动态伸缩**：CPU、内存及硬盘支持实时升降配，无须停机。
 
-- **CPU**：1 核
-- **内存**：1 GB
-- **存储**：20 GB SSD
-- **流量**：4000 GB
-- **价格**：$10.29 / 年
+增值服务：包含邮件中继 (DKIM/SPF)、网络附加存储及多地域部署 (助力 SEO)。
 
-🔗 👉 **[点击这里购买（RackNerd 官方）](https://my.racknerd.com/aff.php?aff=7087&pid=810)**
-
-> 非常适合：代理 / 节点测试 / 科学上网 / 低成本长期使用
+🔗 👉 **[点击这里注册免费送点）](https://tierhive.com/r/587C5FEAC5AA)**
 
 ---
 
 ## 📂 节点文件预览
 
-### ⚡ 实时测速 TOP 15 预览
-```text
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#US | 16.28MB/s | 37.19.198.243 | tg@daily_free_vpn
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#US | 15.44MB/s | 37.19.198.236 | tg@daily_free_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.33:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#CY | 10.92MB/s | 45.82.251.33 | tg@daily_free_vpn
-vless://e4824193-4f54-453b-d037-88368e85ef0e@104.17.239.248:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&type=grpc&serviceName=&sni=pqh29v7.carwashipdir.shop#CY | 9.24MB/s | 45.82.251.250 | tg@daily_free_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.115:8880?encryption=none&security=none&type=grpc#CY | 9.21MB/s | 45.82.251.115 | tg@daily_free_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh30v3.globalfymain.com:8880?encryption=none&security=none&sni=pqh30v3.globalfymain.com&type=grpc#MD | 8.52MB/s | 185.236.232.117 | tg@daily_free_vpn
-vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?encryption=none&security=tls&sni=pqh30v1.carwashipdir.shop&fp=chrome&type=grpc#MD | 8.45MB/s | 185.236.232.115 | tg@daily_free_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh29v3.globalfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#CY | 7.71MB/s | 45.82.251.233 | tg@daily_free_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh18v7.viripdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#CY | 7.61MB/s | 45.82.251.195 | tg@daily_free_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh29v4.globalfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#CY | 7.49MB/s | 45.82.251.249 | tg@daily_free_vpn
-hysteria2://0b8a288c@107.174.181.241:65160?insecure=1&sni=en.snu.ac.kr#US | 6.00MB/s | 107.174.181.241 | tg@daily_free_vpn
-vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.14.104:8880?encryption=none&security=none&type=grpc&mode=gun#US | 6.00MB/s | 2604:2dc0:101:100::14de | tg@daily_free_vpn
-ss://YWVzLTI1Ni1nY206bktlRTJaRldWYUU0RHlqUg@154.38.176.7:80#US | 5.96MB/s | 154.38.176.7 | tg@daily_free_vpn
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#US | 5.74MB/s | 156.146.38.170 | tg@daily_free_vpn
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#US | 5.72MB/s | 156.146.38.169 | tg@daily_free_vpn
-```
-⚠️ 更多验证高速节点：
-
+⚡ 高速节点：
 
 <details>
 <summary>📄 merge-verify.txt（点击展开）</summary>
@@ -60,6 +47,25 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#US | 5.72MB/s | 156.146
 https://raw.githubusercontent.com/cbusifabcap/daily_free_vpn/main/merge-verify.txt
 
 </details>
+
+⚡ 中转节点：
+
+```text
+vless://c359e53e-a6cd-4500-a8fe-cb9869704fc6@npmjs.com:2087?encryption=none&security=tls&sni=cf-rn2.466688.xyz&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fhello-world#%E4%B8%AD%E8%BD%AC%20cf-rn2-s5-s1
+vless://6793187b-cab6-41b3-805d-482977cbdbe7@sportingnews.com:2087?encryption=none&security=tls&sni=cf-rn2.466688.xyz&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fhello-world#%E4%B8%AD%E8%BD%AC%20cf-rn2-s5-s2
+vless://add75c9a-4fb3-44d7-9eb3-95e42bcca90a@Postman.com:2087?encryption=none&security=tls&sni=cf-rn2.466688.xyz&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fhello-world#%E4%B8%AD%E8%BD%AC%20cf-rn2-s5-s3
+vless://73e626ac-5b44-4e9c-903a-f57968fbcb8a@ahrefs.com:2087?encryption=none&security=tls&sni=cf-rn2.466688.xyz&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fhello-world#%E4%B8%AD%E8%BD%AC%20cf-rn2-s5-s4
+vless://5e8ed6e0-0d5d-4f10-a66d-49c7d4421bdf@cochranelibrary.com:2087?encryption=none&security=tls&sni=cf-rn2.466688.xyz&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fhello-world#%E4%B8%AD%E8%BD%AC%20cf-rn2-s5-s5
+vless://74fbbe98-3f0c-43cd-aa0d-ddbaa953d978@npmjs.com:2087?encryption=none&security=tls&sni=cf-rn2.466688.xyz&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fhello-world#%E4%B8%AD%E8%BD%AC%20cf-rn2-s5-s6
+vless://56d4cf64-9bc1-441a-a604-670a2746740a@backblaze.com:2087?encryption=none&security=tls&sni=cf-rn2.466688.xyz&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fhello-world#%E4%B8%AD%E8%BD%AC%20cf-rn2-s5-s7
+vless://03919f80-d12b-4651-a63e-f03e6ca4cb37@notion.so:2087?encryption=none&security=tls&sni=cf-rn2.466688.xyz&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fhello-world#%E4%B8%AD%E8%BD%AC%20cf-rn2-s5-s8
+vless://5df96979-25d5-43bc-930a-9a5b4feb1ebb@algolia.com:2087?encryption=none&security=tls&sni=cf-rn2.466688.xyz&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fhello-world#%E4%B8%AD%E8%BD%AC%20cf-rn2-s5-s9
+vless://485b4a0d-30f5-4cac-b4fd-de8b91e88485@cdnjs.com:2087?encryption=none&security=tls&sni=cf-rn2.466688.xyz&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fhello-world#%E4%B8%AD%E8%BD%AC%20cf-rn2-s5-s10
+```
+
+---
+
+## 💰 免费 VPS 推荐
 
 ---
 
