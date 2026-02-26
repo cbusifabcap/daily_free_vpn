@@ -2,7 +2,7 @@
 
 🚀 **自动更新的免费 VPN 节点合集**
 
-🕒 最近更新时间：**2026-02-26 23:09:56**
+🕒 最近更新时间：**2026-02-26 23:16:50**
 
 ---
 
@@ -54,6 +54,14 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh18v7.viripdirect.shop:8880?mode=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiVVMgfCA3Ljc3TUIvcyB8IDE3Mi4yMzMuMjI5LjkxIHwgdGdAZGFpbHlfZnJlZV92cG4iLCAiYWRkIjogIjE3Mi4yMzMuMjI5LjkxIiwgInBvcnQiOiAiMTQxMDIiLCAiaWQiOiAiMjdiYTg3ZmMtNTgzZi00NzYzLTkwNjAtODNjZjBiOTI2NGRiIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJ0ZXN0X25hbWUiOiAiNCJ9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh30v3.globalfymain.com:8880?encryption=none&security=none&sni=pqh30v3.globalfymain.com&type=grpc#MD | 7.73MB/s | 185.236.232.117 | tg@daily_free_vpn
 ```
+⚠️ 更多验证高速节点：
+
+
+<details>
+<summary>📄 merge-verify.txt（点击展开）</summary>
+
+🔗 原始文件地址（Raw）  
+https://raw.githubusercontent.com/cbusifabcap/daily_free_vpn/main/merge-verify.txt
 
 ### 📡 10 Relay Nodes. Join our Telegram channel for more.
 ```text
@@ -68,14 +76,6 @@ vless://03919f80-d12b-4651-a63e-f03e6ca4cb37@notion.so:2087?encryption=none&secu
 vless://5df96979-25d5-43bc-930a-9a5b4feb1ebb@algolia.com:2087?encryption=none&security=tls&sni=cf-rn2.466688.xyz&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fhello-world#%E4%B8%AD%E8%BD%AC%20cf-rn2-s5-s9
 vless://485b4a0d-30f5-4cac-b4fd-de8b91e88485@cdnjs.com:2087?encryption=none&security=tls&sni=cf-rn2.466688.xyz&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fhello-world#%E4%B8%AD%E8%BD%AC%20cf-rn2-s5-s10
 ```
-https://raw.githubusercontent.com/cbusifabcap/daily_free_vpn/main/merge-verify.txt
-⚠️ 更多验证高速节点：
-
-
-<details>
-<summary>📄 merge-verify.txt（点击展开）</summary>
-
-🔗 原始文件地址（Raw）  
 https://raw.githubusercontent.com/cbusifabcap/daily_free_vpn/main/merge-verify.txt
 
 </details>
