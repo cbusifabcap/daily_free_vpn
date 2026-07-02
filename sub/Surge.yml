@@ -1,0 +1,47 @@
+🇺🇸US_1|1.6MB/s=vmess,67.220.95.3,18000,username=f8c8dc3d-0d37-46b0-8b34-a7232882fcfe,vmess-aead=false,tls=false,skip-cert-verify=false,udp-relay=true
+🇳🇱NL_1|1.1MB/s=ss,82.38.31.217,8080,encrypt-method=chacha20-ietf-poly1305,password="k1dBOmOB4oqi7Ump37a1bQ"
+🇺🇸US_5|2.7MB/s=vmess,82.198.246.97,180,username=d13fc2f5-3e05-4795-81eb-44143a09e552,vmess-aead=false,tls=false,sni="support.zoom.us.one.cf.cdn.hyli.xyz",skip-cert-verify=false,udp-relay=true
+🇺🇸US_6|687KB/s=vmess,82.198.246.250,180,username=d13fc2f5-3e05-4795-81eb-44143a09e552,vmess-aead=true,tls=false,sni="kfm-bn0.pages.dev",skip-cert-verify=false,udp-relay=true
+❓Other_1|1.4MB/s=https,138.199.35.205,9002,skip-cert-verify=true
+🇺🇸US_7|1.1MB/s=https,138.199.35.208,9002,skip-cert-verify=true
+❓Other_2|789KB/s=https,156.146.59.9,9002,skip-cert-verify=true
+🇺🇸US_8|1.5MB/s=https,156.146.59.33,9002,skip-cert-verify=true
+🇺🇸US_9|607KB/s=https,156.146.59.42,9002,skip-cert-verify=true
+🇺🇸US_10|1.4MB/s=vmess,82.198.246.233,180,username=d13fc2f5-3e05-4795-81eb-44143a09e552,vmess-aead=true,tls=false,sni="HL-FREEDOM-1.UNDEF.NETWORK",skip-cert-verify=false,udp-relay=true
+🇺🇸US_12|5.0MB/s=vmess,104.16.0.0,443,username=95d2c461-61f5-4dae-bc74-4d10ce1f6236,ws=true,ws-path=/ws-gongyi,ws-headers="Host:"gongyilm.dpdns.org"",vmess-aead=false,tls=true,sni="gongyilm.dpdns.org",skip-cert-verify=false,udp-relay=true
+🇷🇴RO_1|682KB/s=https,84.239.49.159,9002,skip-cert-verify=true
+❓Other_3|578KB/s=trojan,qfdfsg.wsone.icu,443,password="M7v%w11Se*",tls=true,sni="qfdfsg.wsone.icu",skip-cert-verify=true,udp-relay=true
+🇿🇦ZA_1|1.2MB/s=ss,102.37.156.224,443,encrypt-method=chacha20-ietf-poly1305,password="aduB9HGxQHjA2SBMRjkHX6",udp-relay=true
+🇷🇴RO_2|555KB/s=https,193.176.84.16,9002,skip-cert-verify=true
+🇯🇵JP_1|1.6MB/s=trojan,64.176.36.17,443,password="eeb6823c-b926-4ea2-866a-5542edd26e59",ws=true,ws-path=/%2F,ws-headers="Host:"tjsp.hhxaf.cc.cd"",tls=true,sni="tjsp.hhxaf.cc.cd",skip-cert-verify=false
+🇺🇸US_15|808KB/s=socks5,us7.cactussstp.com,1080,username="M_YOU_D",password="Private",skip-cert-verify=true
+🇪🇸ES_1|1.6MB/s|R002-260618=trojan,193.148.19.210,52794,password="2eutknankxtbgkwcajzt",tls=true,sni="www.vk.com",skip-cert-verify=true,udp-relay=true
+❓Other_4|2.2MB/s|B007-260618=trojan,104.17.121.43,443,password="f922fa0f-3311-4368-85ff-cf65e727c854",ws=true,ws-path=/br-orcl,ws-headers="User-Agent:"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36"",tls=true,sni="space.byu.id.yxls.eu.cc",skip-cert-verify=false,udp-relay=true
+🇺🇸US_19|673KB/s|A004-260618=vmess,82.198.246.250,180,username=d13fc2f5-3e05-4795-81eb-44143a09e552,vmess-aead=true,tls=false,sni="Koma-YT.PAGeS.Dev",skip-cert-verify=false,udp-relay=true
+🇺🇸US_20|579KB/s|M002-260618=vmess,82.198.246.250,180,username=d13fc2f5-3e05-4795-81eb-44143a09e552,vmess-aead=true,tls=false,sni="82.198.246.250",skip-cert-verify=false,udp-relay=true
+🇺🇸US_25|4.2MB/s|B007-260618=trojan,104.18.42.163,443,password="eeb6823c-b926-4ea2-866a-5542edd26e59",ws=true,ws-path=/,ws-headers="User-Agent:"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36"",tls=true,sni="tjsp.hhxaf.cc.cd",skip-cert-verify=false,udp-relay=true
+🇫🇷FR_3|3.2MB/s|S004-260618=trojan,45.130.125.18,443,password="humanity",ws=true,ws-path=/assignment,ws-headers="User-Agent:"Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.7 (KHTML, like Gecko) Chrome/7.0.517.44 Safari/534.7"",tls=true,sni="www.calmlunch.com",skip-cert-verify=false,udp-relay=true
+❓Other_6|657KB/s=vmess,82.198.246.250,180,username=d13fc2f5-3e05-4795-81eb-44143a09e552,vmess-aead=true,tls=false,sni="0b0c6db6-t70f40-tbe46y-1la7v.hkt.gotochinatown.net",skip-cert-verify=false,udp-relay=true
+🇬🇧GB_1|2.5MB/s=ss,146.70.61.37,8080,encrypt-method=rc4-md5,password="14fFPrbezE3HDZzsMOr6"
+🇳🇱NL_2|731KB/s|A001-260618=ss,82.38.31.211,8080,encrypt-method=chacha20-ietf-poly1305,password="k1dBOmOB4oqi7Ump37a1bQ",udp-relay=true
+🇺🇸US_27|673KB/s=https,138.199.35.209,9002,skip-cert-verify=true
+🇯🇵JP_2|665KB/s=vmess,172.104.80.66,22324,username=04621bae-ab36-11ec-b909-0242ac120002,vmess-aead=true,tls=false,skip-cert-verify=false,udp-relay=true
+🇺🇸US_28|1.3MB/s|M002-260618=vmess,82.198.246.233,180,username=d13fc2f5-3e05-4795-81eb-44143a09e552,vmess-aead=true,tls=false,sni="fra34.chasem2026sud.com",skip-cert-verify=false,udp-relay=true
+🇮🇸IS_1|699KB/s|B007-260618=trojan,37.235.49.118,443,password="p=Xuu4jK_lJ9rOKw5+7BsW798DZ-01cv4S",tls=true,skip-cert-verify=false,udp-relay=true
+🇺🇸US_29|661KB/s=vmess,82.198.246.37,180,username=d13fc2f5-3e05-4795-81eb-44143a09e552,encrypt-method=aes-128-gcm,vmess-aead=true,tls=false,skip-cert-verify=true,udp-relay=true
+🇺🇸US_30|867KB/s=vmess,38.114.123.42,18000,username=f8c8dc3d-0d37-46b0-8b34-a7232882fcfe,vmess-aead=false,tls=false,skip-cert-verify=false,udp-relay=true
+🇯🇵JP_4|672KB/s=vmess,153.121.73.175,32221,username=b06054ae-f249-438e-998a-8e67bd8df653,vmess-aead=false,tls=false,skip-cert-verify=false,udp-relay=true
+🇺🇸US_31|1.1MB/s=https,138.199.35.200,9002,skip-cert-verify=true
+🇺🇸US_32|832KB/s=https,138.199.35.214,9002,skip-cert-verify=true
+🇺🇸US_34|594KB/s=ss,108.181.57.93,8388,encrypt-method=chacha20-ietf-poly1305,password="RSo52SbxW40r",udp-relay=true
+❓Other_7|934KB/s|V003-260618=trojan,104.16.72.70,443,password="f922fa0f-3311-4368-85ff-cf65e727c854",ws=true,ws-path=/br-orcl,ws-headers="User-Agent:"Mozilla/5.0 (Linux; Android 7.0; BLL-L22 Build/HUAWEIBLL-L22) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36"",tls=true,sni="space.byu.id.yxls.eu.cc",skip-cert-verify=false,udp-relay=true
+🇫🇷FR_4|2.4MB/s=trojan,45.130.125.160,443,password="humanity",ws=true,ws-path=/assignment,ws-headers="User-Agent:"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36"",tls=true,sni="www.ignitelimit.com",skip-cert-verify=false,udp-relay=true
+🇺🇸US_35|569KB/s=https,156.146.59.19,9002,skip-cert-verify=true
+❓Other_9|1.1MB/s=ss,209.46.102.22,8388,encrypt-method=chacha20-ietf-poly1305,password="1hhrqrokj3ag"
+🇹🇼TW_1|626KB/s|K001-260618=hysteria2,103.115.109.49,443,password="H7mP2xY9kJ4nQ8wR5tF6vB3z",sni="https://t.me/WangCai2",skip-cert-verify=true,download-bandwidth=0
+🇫🇷FR_5|1.4MB/s|M002-260618=vmess,cmcc.877774.xyz,80,username=f8975871-a7a0-4906-8835-a23c1258ca1e,ws=true,ws-path=/,ws-headers="Host:"google.whatsapp.snapp.torob.basalam.zula.uplaod-music.ir."",vmess-aead=false,tls=false,skip-cert-verify=false,udp-relay=true
+🇷🇴RO_3|673KB/s=https,84.239.14.159,9002,skip-cert-verify=true
+🇺🇸US_40|1.1MB/s|A004-260618=vmess,82.198.246.37,180,username=d13fc2f5-3e05-4795-81eb-44143a09e552,vmess-aead=true,tls=false,sni="seribus.org",skip-cert-verify=false,udp-relay=true
+🇺🇸US_43|2.1MB/s|M002-260618=vmess,82.198.246.233,180,username=d13fc2f5-3e05-4795-81eb-44143a09e552,vmess-aead=true,tls=false,sni="82.198.246.233",skip-cert-verify=false,udp-relay=true
+🇺🇸US_49|620KB/s|A004-260618=ss,130.51.22.8,2096,encrypt-method=chacha20-ietf-poly1305,password="SSUiN4nEoL7IV711WrmmsA",udp-relay=true
+❓Other_14|971KB/s|B007-260618=hysteria2,54.179.149.169,443,password="H7mP2xY9kJ4nQ8wR5tF6vB3z",sni="https://t.me/WangCai2🇨🇳",skip-cert-verify=true,download-bandwidth=0
