@@ -1,0 +1,50 @@
+{
+  "outbounds": [
+    {
+      "tag": "🇺🇸US_1|527KB/s",
+      "type": "vless",
+      "server": "104.18.42.163",
+      "server_port": 8880,
+      "uuid": "ce977d82-824b-4209-87f1-0719f78d6a2e",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "royal-mode-cf74.210-62d.workers.dev",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "🇺🇸US_2|649KB/s|C002-260622",
+      "type": "vless",
+      "server": "cf2.466688.xyz",
+      "server_port": 8880,
+      "uuid": "f989cbf4-40d2-41d2-8a00-1fe4e29b2192",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "ancient-rice-c180.455-8ad.workers.dev",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0.1; SM-G532M Build/MMB29T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"
+        },
+        "path": "/pyip=ProxyIP.SG.CMLiussss.net@https://t.me/QiangLieTuiJian"
+      }
+    },
+    {
+      "tag": "🇩🇪DE_1|516KB/s",
+      "type": "anytls",
+      "server": "de003.asgg2026.vip",
+      "server_port": 443,
+      "password": "c90afede-81f8-439d-9a20-f45579f623ec",
+      "tls": {
+        "enabled": true,
+        "server_name": "de003.asgg2026.vip",
+        "insecure": false,
+        "disable_sni": true
+      }
+    }
+  ],
+  "endpoints": []
+}
